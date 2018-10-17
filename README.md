@@ -1,6 +1,11 @@
 [![Build Status](https://travis-ci.org/mlund/neofaunus.svg?branch=master)](https://travis-ci.org/mlund/neofaunus)
 [![Anaconda-Server Badge](https://anaconda.org/teokem/faunus/badges/installer/conda.svg)](https://conda.anaconda.org/teokem/)
 
+NOTE
+====
+
+This repository has now been merged with the main Faunus code at http://github.com/mlund/faunus.
+
 Welcome to Faunus
 =================
 
